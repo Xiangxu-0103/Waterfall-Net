@@ -2,9 +2,9 @@
 
 This is the official implementation of Waterfall-Net (PRCV 2022), a new point cloud semantic segmentation paradigm with waterfall feature aggregation. For technical details, please refer to:
 
-**Waterfall-Net: Waterfall Feature Aggregation for Point Cloud Semantic Segmentation**
-Hui Shuai, Xiang Xu, Qingshan Liu.
-[paper](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_3)
+**Waterfall-Net: Waterfall Feature Aggregation for Point Cloud Semantic Segmentation**<br />
+Hui Shuai, Xiang Xu, Qingshan Liu.<br />
+**[[paper](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_3          )]**
 
 ![structures](./imgs/Waterfall-Net.png)
 
